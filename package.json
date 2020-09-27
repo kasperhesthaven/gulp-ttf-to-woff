@@ -28,5 +28,9 @@
   "devDependencies": {
     "mocha": "^8.0.1",
     "vinyl": "^2.2.0"
-  }
+  },
+  "files": [
+    "index.js",
+    "LICENSE"
+  ]
 }
