@@ -1,6 +1,6 @@
 {
   "name": "gulp-ttf-to-woff",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Gulp plugin to convert TTF(TrueType font) files to WOFF.",
   "author": "Kasper Hesthaven",
   "repository": "kasperhesthaven/gulp-ttf-to-woff",
